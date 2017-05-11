@@ -1825,18 +1825,20 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020050;
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
-        public static final int notification_action_background=0x7f020053;
-        public static final int notification_bg=0x7f020054;
-        public static final int notification_bg_low=0x7f020055;
-        public static final int notification_bg_low_normal=0x7f020056;
-        public static final int notification_bg_low_pressed=0x7f020057;
-        public static final int notification_bg_normal=0x7f020058;
-        public static final int notification_bg_normal_pressed=0x7f020059;
-        public static final int notification_icon_background=0x7f02005a;
-        public static final int notification_template_icon_bg=0x7f02005d;
-        public static final int notification_template_icon_low_bg=0x7f02005e;
-        public static final int notification_tile_bg=0x7f02005b;
-        public static final int notify_panel_notification_icon_bg=0x7f02005c;
+        public static final int icon_search=0x7f020053;
+        public static final int icon_settings=0x7f020054;
+        public static final int notification_action_background=0x7f020055;
+        public static final int notification_bg=0x7f020056;
+        public static final int notification_bg_low=0x7f020057;
+        public static final int notification_bg_low_normal=0x7f020058;
+        public static final int notification_bg_low_pressed=0x7f020059;
+        public static final int notification_bg_normal=0x7f02005a;
+        public static final int notification_bg_normal_pressed=0x7f02005b;
+        public static final int notification_icon_background=0x7f02005c;
+        public static final int notification_template_icon_bg=0x7f02005f;
+        public static final int notification_template_icon_low_bg=0x7f020060;
+        public static final int notification_tile_bg=0x7f02005d;
+        public static final int notify_panel_notification_icon_bg=0x7f02005e;
     }
     public static final class id {
         public static final int action0=0x7f0b005c;
@@ -1856,6 +1858,8 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0044;
         public static final int action_mode_bar_stub=0x7f0b0043;
         public static final int action_mode_close_button=0x7f0b0026;
+        public static final int action_search=0x7f0b0070;
+        public static final int action_settings=0x7f0b0071;
         public static final int action_text=0x7f0b005b;
         public static final int actions=0x7f0b0068;
         public static final int activity_chooser_view_content=0x7f0b0027;
@@ -2008,6 +2012,9 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f04002e;
         public static final int support_simple_spinner_dropdown_item=0x7f04002f;
     }
+    public static final class menu {
+        public static final int main_activity_actions=0x7f0d0000;
+    }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
     }
@@ -2043,9 +2050,12 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int app_name=0x7f060021;
-        public static final int button_send=0x7f060022;
-        public static final int edit_message=0x7f060023;
+        public static final int action_search=0x7f060021;
+        public static final int action_settings=0x7f060022;
+        public static final int app_name=0x7f060023;
+        public static final int button_send=0x7f060024;
+        public static final int display_label=0x7f060025;
+        public static final int edit_message=0x7f060026;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
     }

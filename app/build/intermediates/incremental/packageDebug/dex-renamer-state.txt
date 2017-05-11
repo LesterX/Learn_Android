@@ -1,4 +1,4 @@
-#Wed May 10 16:04:58 CST 2017
+#Thu May 11 09:52:02 CST 2017
 base.0=/Users/xuyimin/AndroidStudioProjects/SomeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7fa303522a0bf1d4e742c2ba567ae66a78874994
 renamed.1=classes2.dex
 renamed.0=classes.dex
