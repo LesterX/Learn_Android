@@ -2,36 +2,104 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="25"
+    build-mode="FULL"
     density="560dpi"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="47396617522346"
-    token="3872874872750849785"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1494643252742"
+    token="5393801212684371567"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="724" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="571" />
+        duration="0" />
     <task
         name="verifier"
-        duration="67" />
+        duration="0" />
 
     <artifact
-        location="/Users/xuyimin/AndroidStudioProjects/SomeApp/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
-        timestamp="47396617522346"
+        build-mode="FULL"
+        timestamp="1494643252742"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/xuyimin/AndroidStudioProjects/SomeApp/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xuyimin/Desktop/Android/Learn_Android/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
